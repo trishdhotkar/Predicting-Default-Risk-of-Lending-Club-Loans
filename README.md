@@ -17,4 +17,4 @@ Feature Selection :
 1) Lasso Regression 2) Principle Component Analysis 3) Recursive Feature Elimination 4) Random
 Forest for Feature Ranking
 Models :
-1) Random Forest 2) Logistic Regression 3) Support Vector Machine 4) K Nearest Neighbors(KNN)
+1) Random Forest 2) Logistic Regression 3) Support Vector Machine 4) K Nearest Neighbors(KNN) 5)Decision Tree
